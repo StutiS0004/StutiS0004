@@ -1,8 +1,8 @@
-- 👋 Hi, I’m StutiSamanta
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m Stuti Samanta
+- 👀 I’m interested in learning new programming languages 
 - 🌱 I’m currently pursuing B.Tech
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on various other projects
+  
 
 <!---
 StutiS0004/StutiS0004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
